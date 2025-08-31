@@ -1,7 +1,7 @@
 export const API_KEYS = {
   first: "68bf4d2085msh57e7c644647c6cep1f7259jsnb8370da6c478",
-  second: "", // Add more keys here
-  third: "", // Add more keys here
+  second: "e03c50a35amsh2b7c814e0502e9ep1a653ejsn6e4ad838eb55", // Add more keys here
+  third: "c8204dbd31msh2bd2eead71ef37ep1009efjsn215fadac5ac9", // Add more keys here
   fourth: "", // Add more keys here
 } as const
 
